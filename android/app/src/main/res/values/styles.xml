@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Back color of the app in recent apps -->
+        <item name="colorPrimary">@color/A</item>
+
+        <!-- Status bar color -->
+        <item name="colorPrimaryDark">@color/B</item>
+    </style>
+
+</resources>
