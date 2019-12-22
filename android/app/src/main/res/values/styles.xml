@@ -7,6 +7,9 @@
 
         <!-- Status bar color -->
         <item name="colorPrimaryDark">@color/B</item>
+        
+        <!-- Arrow color of picker -->
+        <item name="android:colorControlNormal">#000000</item>
     </style>
 
 </resources>
